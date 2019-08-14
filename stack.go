@@ -1,4 +1,4 @@
-package golang_stack
+package stack
 
 type Item interface{}
 type Stack interface {
